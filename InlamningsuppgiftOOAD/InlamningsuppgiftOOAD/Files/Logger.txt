@@ -1,0 +1,23 @@
+﻿2018-10-08 11:58:46 - Användaren får alla deltagare utskrivna
+2018-10-08 11:58:57 - Användaren får alla deltagare utskrivna
+2018-10-08 11:59:09 - Admin har flyttat över Luna Apansson med nytt tävlingsnummer 11 till Member-filen och är markerad som betald.
+2018-10-08 11:59:18 - Användare får alla matcher utskrivna
+2018-10-08 12:01:12 - Användaren får alla tävlingar utskrivna 
+2018-10-08 12:01:18 - Användare söker match efter med id: 1
+2018-10-08 12:16:07 - Användaren får alla deltagare utskrivna
+2018-10-08 12:18:16 - Admin har lagt till en ny tävling i cupen.
+2018-10-08 12:18:22 - Användaren får alla deltagare utskrivna
+2018-10-08 12:25:26 - Användaren får alla deltagare utskrivna
+2018-10-09 3:33:28 PM - Användaren får alla deltagare utskrivna
+2018-10-09 3:41:10 PM - Användaren får alla deltagare utskrivna
+2018-10-09 3:44:50 PM - Användaren får alla deltagare utskrivna
+2018-10-09 3:46:55 PM - Användaren får alla deltagare utskrivna
+2018-10-09 3:48:36 PM - Användaren får alla deltagare utskrivna
+2018-10-09 4:12:01 PM - Användaren får alla deltagare utskrivna
+2018-10-09 19:08:50 - Användaren får alla tävlingar utskrivna 
+2018-10-09 19:08:57 - Användaren får den slutgiltiga vinnaren utskriven 
+2018-10-10 12:36:35 - Användaren får alla tävlingar utskrivna 
+2018-10-10 12:36:41 - Användaren får alla tävlingar utskrivna 
+2018-10-10 12:36:53 - Användaren får den slutgiltiga vinnaren utskriven 
+2018-10-12 19:54:23 - Användaren får alla deltagare utskrivna
+2018-10-12 19:54:31 - Användare får alla matcher utskrivna
